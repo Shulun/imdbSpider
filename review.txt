@@ -1,0 +1,1777 @@
+
+<!DOCTYPE html>
+<html xmlns:og="http://opengraphprotocol.org/schema/"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<script type="text/javascript">var IMDbTimer={starttime: new Date().getTime()};</script>
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
+<script>
+var addClickstreamHeadersToAjax = function(xhr) {
+    xhr.setRequestHeader("x-imdb-parent-id", "01MCDFC2P6A316JFJVXE");
+};
+</script>
+
+<title>Dunkirk  Reviews &#x26; Ratings - IMDb</title>
+<script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
+<link rel="canonical" href="http://www.imdb.com/title/tt5013056/reviews" /><meta property="og:url" content="http://www.imdb.com/title/tt5013056/reviews" />
+
+<meta name="title" content="Dunkirk  Reviews &#x26; Ratings - IMDb">
+<meta name="description" content="Review: Nolan fanboys are ruining reviews - This movie has no character development at all people are just dying and you don&#x27;t feel anything heck...">
+
+<meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits">
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFbffed916d439cb9a451915be4eabd598/css/min/title.css" ><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SFee9c9a814eba8342b847680ef4330580/css2/site/consumer-navbar-mega.css" ><script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
+
+
+<meta name="application-name" content="IMDb" />
+<meta name="msapplication-tooltip" content="IMDb Web App" />
+<meta name="msapplication-window" content="width=1500;height=900" />
+<meta name="msapplication-task" content="name=Find Movie Showtimes;action-uri=/showtimes/;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<meta name="msapplication-task" content="name=Watch HD Trailers;action-uri=/features/hdgallery;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<meta name="msapplication-task" content="name=What's On TV Tonight;action-uri=/sections/tv/;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<meta name="msapplication-task" content="name=Get Latest Entertainment News;action-uri=/news/top;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<meta name="msapplication-task" content="name=Sign-in;action-uri=/register/login;icon-uri=http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico"/>
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+<link rel="icon" type="image/ico" href="http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/favicon.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="http://i.media-imdb.com/images/SFff39adb4d259f3c3fd166853a6714a32/desktop-favicon.ico" />
+<link href="http://i.media-imdb.com/images/SFf8f1b67827a5df7f13bdfc19d935ed62/mobile/apple-touch-icon-web.png" rel="apple-touch-icon"> 
+<link href="http://i.media-imdb.com/images/SF7992061047d0cfee4f580f432264f5a5/mobile/apple-touch-icon-web-76x76.png" rel="apple-touch-icon" sizes="76x76"> 
+<link href="http://i.media-imdb.com/images/SF6ff760bc2f74d7aa806c6cdea88da4ee/mobile/apple-touch-icon-web-120x120.png" rel="apple-touch-icon" sizes="120x120"> 
+<link href="http://i.media-imdb.com/images/SFf1bafc988ae4011ee3f42c0144284ce4/mobile/apple-touch-icon-web-152x152.png" rel="apple-touch-icon" sizes="152x152"> 
+<link rel="search" type="application/opensearchdescription+xml"
+      href="http://i.media-imdb.com/images/SFccbe1e4d909ef8b8077201c3c5aac349/imdbsearch.xml" title="IMDb" />
+<script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+
+<meta property="fb:app_id" content="115109575169727" />
+<meta property="og:title" content="Dunkirk  Reviews &#x26; Ratings - IMDb" />
+<meta property="og:site_name" content="IMDb" />
+<script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
+<!-- start m/s/a/_g_a_s , head -->
+<script>
+window.ads_js_start = new Date().getTime();
+var imdbads = imdbads || {}; imdbads.cmd = imdbads.cmd || [];
+</script>
+<!-- begin SRA -->
+<script>
+!function a(b,c,d){function e(g,h){if(!c[g]){if(!b[g]){var i="function"==typeof require&&require;if(!h&&i)return i(g,!0);if(f)return f(g,!0);var j=new Error("Cannot find module '"+g+"'");throw j.code="MODULE_NOT_FOUND",j}var k=c[g]={exports:{}};b[g][0].call(k.exports,function(a){var c=b[g][1][a];return e(c?c:a)},k,k.exports,a,b,c,d)}return c[g].exports}for(var f="function"==typeof require&&require,g=0;g<d.length;g++)e(d[g]);return e}({1:[function(a,b,c){"use strict";a(2)},{2:2}],2:[function(a,b,c){"use strict";!function(){var a,b,c=function(a){return"[object Array]"===Object.prototype.toString.call(a)},d=function(a,b){for(var c=0;c<a.length;c++)c in a&&b.call(null,a[c],c)},e=[],f=!1,g=!1,h=function(){var a=[],b=[],c={};return d(e,function(e){var f="";d(e.dartsite.split("/"),function(b){""!==b&&(b in c||(c[b]=a.length,a.push(b)),f+="/"+c[b])}),b.push(f)}),{iu_parts:a,enc_prev_ius:b}},i=function(){var a=[];return d(e,function(b){var c=[];d(b.sizes,function(a){c.push(a.join("x"))}),a.push(c.join("|"))}),a},j=function(){var a=[];return d(e,function(b){a.push(k(b.targeting))}),a.join("|")},k=function(a,b){var c,d=[];for(var e in a){c=[];for(var f=0;f<a[e].length;f++)c.push(encodeURIComponent(a[e][f]));b?d.push(e+"="+encodeURIComponent(c.join(","))):d.push(e+"="+c.join(","))}return d.join("&")},l=function(){var a=+new Date;g||document.readyState&&"loaded"!==document.readyState||(g=!0,f&&imdbads.cmd.push(function(){for(var b=0;b<e.length;b++)generic.monitoring.record_metric(e[b].name+".fail",csm.duration(a))}))};window.tinygpt={define_slot:function(a,b,c,d){e.push({dartsite:a.replace(/\/$/,""),sizes:b,name:c,targeting:d})},set_targeting:function(b){a=b},callback:function(a){var c,d,f={},g=+new Date;try{for(var h=0;h<e.length;h++)c=e[h].dartsite,d=e[h].name,a[h][c]?f[d]=a[h][c]:window.console&&console.error&&console.error("Unable to correlate GPT response for "+d);imdbads.cmd.push(function(){for(var a=0;a<e.length;a++)ad_utils.slot_events.trigger(e[a].name,"request",{timestamp:b}),ad_utils.slot_events.trigger(e[a].name,"tagdeliver",{timestamp:g});ad_utils.gpt.handle_response(f)})}catch(i){window.console&&console.error&&console.error("Exception in GPT callback: "+i.message)}},send:function(){var d,g,m=[],n=function(a,b){c(b)&&(b=b.join(",")),b&&m.push(a+"="+encodeURIComponent(""+b))};if(0===e.length)return void tinygpt.callback({});n("gdfp_req","1"),n("correlator",Math.floor(4503599627370496*Math.random())),n("output","json_html"),n("callback","tinygpt.callback"),n("impl","fifs"),n("json_a","1");var o=h();n("iu_parts",o.iu_parts),n("enc_prev_ius",o.enc_prev_ius),n("prev_iu_szs",i()),n("prev_scp",j()),n("cust_params",k(a,!0)),d=document.createElement("script"),g=document.getElementsByTagName("script")[0],d.async=!0,d.type="text/javascript",d.src="http://pubads.g.doubleclick.net/gampad/ads?"+m.join("&"),d.id="tinygpt",d.onload=d.onerror=d.onreadystatechange=l,f=!0,g.parentNode.insertBefore(d,g),b=+new Date}}}()},{}]},{},[1]);</script>
+<script>
+tinygpt.define_slot('/4215/imdb2.consumer.main/',
+[[728,90],[1008,150],[1008,200],[1008,30],[970,250],[9,1]],
+'top_ad',
+{
+'p': ['top','t']
+});
+tinygpt.define_slot('/4215/imdb2.consumer.main/',
+[[300,250],[300,600],[11,1]],
+'top_rhs',
+{
+'p': ['tr']
+});
+tinygpt.set_targeting({
+'tt' : ['f'],
+'ab' : ['f'],
+'coo' : ['gb','nl','fr','us'],
+'b' : ['t250','t25','t250a'],
+'c' : ['0'],
+'g' : ['hi','ac','th','war','dr'],
+'bpx' : ['1'],
+'m' : ['PG13'],
+'fv' : ['1'],
+'mh' : ['PG13'],
+'id' : ['tt5013056'],
+'ml' : ['PG13'],
+'u': ['612335333931'],
+'oe': ['utf-8']
+});
+tinygpt.send();
+</script>
+<!-- begin ads header -->
+<script src="https://ia.media-imdb.com/images/G/01/imdbads/js/collections/tarnhelm-3632141750._CB519770204_.js"></script>
+<script id="ads_doWithAds">
+doWithAds = function(inside, failureMessage){
+if ('consoleLog' in window &&
+'generic' in window &&
+'ad_utils' in window &&
+'custom' in window &&
+'monitoring' in generic &&
+'document_is_ready' in generic) {
+try{
+inside.call(this);
+}catch(e) {
+if ( window.ueLogError ) {
+if(typeof failureMessage !== 'undefined'){
+e.message = failureMessage;
+}
+e.attribution = "Advertising";
+e.logLevel = "ERROR";
+ueLogError(e);
+}
+if( (document.location.hash.match('debug=1')) &&
+(typeof failureMessage !== 'undefined') ){
+console.error(failureMessage);
+}
+}
+} else {
+if( (document.location.hash.match('debug=1')) &&
+(typeof failureMessage !== 'undefined') ){
+console.error(failureMessage);
+}
+}
+};
+</script><script id="ads_monitoring_setup">
+doWithAds(function(){
+generic.monitoring.set_forester_info("main");
+generic.monitoring.set_twilight_info(
+"main",
+"UNKNOWN",
+"ad2f129efe57c4fabc9a71ec680aa92d62269e4e",
+"2017-09-14T18%3A55%3A07GMT",
+"https://s.media-imdb.com/twilight/?",
+"consumer");
+generic.monitoring.start_timing("page_load");
+generic.seconds_to_midnight = 43493;
+generic.days_to_midnight = 0.5033912062644958;
+},"Generic not defined, skipping monitoring setup.");
+</script>
+<script src="https://images-na.ssl-images-amazon.com/images/G/01/dacx/sf/DAsf-1.34_FX1._V275812351_.js"></script>
+<script id="ads_safeframe_setup">
+doWithAds(function(){
+if (typeof DAsf != 'undefined' && typeof DAsf.registerCustomMessageListener === 'function') {
+DAsf.registerCustomMessageListener('adFeedback', window.ad_utils.show_ad_feedback);
+DAsf.registerCustomMessageListener('sendMetrics', window.generic.monitoring.update_sf_slot_metrics);
+DAsf.registerCustomMessageListener('expand', window.ad_utils.expand_overlay);
+DAsf.registerCustomMessageListener('collapse', window.ad_utils.collapse_overlay);
+}
+},"ads js missing, skipping safeframe setup.");
+</script>
+<script id="ads_general_setup">
+doWithAds(function(){
+generic.monitoring.record_metric("ads_js_request_to_done", (new Date().getTime()) - window.ads_js_start);
+generic.send_csm_head_metrics && generic.send_csm_head_metrics();
+ad_utils.set_slots_on_page({ 'injected_billboard':1, 'injected_navstrip':1, 'bottom_ad':1, 'top_ad':1, 'top_rhs':1 });
+custom.full_page.data_url = "https://ia.media-imdb.com/images/G/01/imdbads/js/graffiti_data-538221799._CB536725280_.js";
+consoleLog('advertising initialized','ads');
+},"ads js missing, skipping general setup.");
+var _gaq = _gaq || [];
+_gaq.push(['_setCustomVar', 4, 'ads_abtest_treatment', 'f']);
+</script>
+<script>doWithAds(function() { ad_utils.ads_header.done(); });</script>
+<!-- end ads header --><!-- end m/s/a/_g_a_s , head -->
+
+</head>
+
+<body bgcolor="#ffffff" text="#000000" id="styleguide-v2" class="fixed">
+<!-- start m/s/a/_g_a_s , body -->
+<!-- end m/s/a/_g_a_s , body -->
+
+<div id="wrapper">
+  
+<div id="root">
+<layer name="root">
+  
+
+
+
+
+<div id="nb20" class="navbarSprite">
+    <div id="supertab">
+
+
+
+<!-- begin TOP_AD -->
+<div id="top_ad_wrapper" class="dfp_slot">
+<script>
+window.generic = window.generic || {};
+generic.alphalfaComponents = {
+"alphalfa-container.html" : "https://ia.media-imdb.com/images/G/01/imdbads/alphalfa-container-253150330._CB522736199_.html",
+"js/collections/alphalfa.js" : "https://ia.media-imdb.com/images/G/01/imdbads/js/collections/alphalfa-3292747090._CB522736629_.js"
+};
+</script>
+<script type="text/javascript">
+doWithAds(function(){
+if ('dfp_slot' != 'injected_slot') {
+ad_utils.register_ad('top_ad');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=612335333931;ord=612335333931?" frameborder="0" id="top_ad" marginwidth="0" marginheight="0" name="top_ad" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="85" width="0" height="85" ></iframe> </div>
+<noscript> <a href="http://pubads.g.doubleclick.net/gampad/jump?&iu=4215/imdb2.consumer.main/&sz=728x90|1008x150|1008x200|1008x30|970x250|9x1&t=p%3Dtop%26p%3Dt%26g%3Dhi%26g%3Dac%26g%3Dth%26g%3Dwar%26g%3Ddr%26tt%3Df%26m%3DPG13%26mh%3DPG13%26ml%3DPG13%26coo%3Dgb%26coo%3Dnl%26coo%3Dfr%26coo%3Dus%26b%3Dt250%26b%3Dt25%26b%3Dt250a%26fv%3D1%26id%3Dtt5013056%26ab%3Df%26bpx%3D1%26c%3D0&tile=0&c=612335333931" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?&iu=4215/imdb2.consumer.main/&sz=728x90|1008x150|1008x200|1008x30|970x250|9x1&t=p%3Dtop%26p%3Dt%26g%3Dhi%26g%3Dac%26g%3Dth%26g%3Dwar%26g%3Ddr%26tt%3Df%26m%3DPG13%26mh%3DPG13%26ml%3DPG13%26coo%3Dgb%26coo%3Dnl%26coo%3Dfr%26coo%3Dus%26b%3Dt250%26b%3Dt25%26b%3Dt250a%26fv%3D1%26id%3Dtt5013056%26ab%3Df%26bpx%3D1%26c%3D0&tile=0&c=612335333931" border="0" alt="advertisement" /> </a> </noscript>
+<div id="top_ad_reflow_helper"></div>
+<script id="top_ad_rendering">
+doWithAds(function(){
+if ('dfp_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('top_ad');
+} else {
+ad_utils.gpt.render_ad('top_ad');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End TOP_AD --><!-- _get_ad_for_slot(TOP_AD) -->
+</div>
+	<div id="navbar">
+        <noscript><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF52e6b9f11712d3ec552179f6c869b63a/css2/site/consumer-navbar-no-js.css"></noscript>
+		<span id="home_img_holder">            <a     href="/?ref_=nv_home"    id='home_img' class='navbarSprite' title='Home' ></a>
+
+            <span class="alt_logo">
+                <a     href="/?ref_=nv_home"    title='Home' >IMDb</a>
+            </span>
+        </span>
+
+
+<form    action="/find"    method="get" id="navbar-form" class="nav-searchbar-inner" accept-charset="utf-8" >
+
+<div id="nb_search" >
+
+  <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+  <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+  <input type="hidden" name="ref_" value="nv_sr_fn" />
+  <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more..." >
+  <div class="quicksearch_dropdown_wrapper">
+
+<select
+    class="quicksearch_dropdown navbarSprite"
+    name="s"
+    id="quicksearch"
+    onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+
+    <option  
+     value="all">All</option>
+    <option  
+     value="tt">Titles</option>
+    <option  
+     value="ep">TV Episodes</option>
+    <option  
+     value="nm">Names</option>
+    <option  
+     value="co">Companies</option>
+    <option  
+     value="kw">Keywords</option>
+    <option  
+     value="ch">Characters</option>
+    <option  
+     value="qu">Quotes</option>
+    <option  
+     value="bi">Bios</option>
+    <option  
+     value="pl">Plots</option>
+</select>
+
+  </div>
+
+<div id="navbar-suggestionsearch"></div>
+</div>
+
+</form>
+
+
+<div id="megaMenu">
+    <ul id="consumer_main_nav" class="main_nav">
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navTitleMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="/movies-in-theaters/?ref_=nv_tp_inth_1"    >Movies</a>,
+                <a     href="/chart/toptv/?ref_=nv_tp_tv250_2"    >TV</a><br />
+                & <a     href="/showtimes/?ref_=nv_tp_sh_3"    >Showtimes</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu1" class="sub_nav">
+                <div id="titleAd"></div>
+                <div class="subNavListContainer">
+                    <h5>MOVIES</h5>
+                    <ul>
+                        
+                        <li><a     href="/movies-in-theaters/?ref_=nv_mv_inth_1"    >In Theaters</a></li>
+                        <li><a     href="/showtimes/?ref_=nv_mv_sh_2"    >Showtimes & Tickets</a></li>
+                        <li><a     href="/trailers/?ref_=nv_mv_tr_3"    >Latest Trailers</a></li>
+                        <li><a     href="/movies-coming-soon/?ref_=nv_mv_cs_4"    >Coming Soon</a></li>
+                        <li><a     href="/calendar/?ref_=nv_mv_cal_5"    >Release Calendar</a></li>
+                        <li><a     href="/chart/top/?ref_=nv_mv_250_6"    >Top Rated Movies</a></li>
+                        <li><a     href="/chart/moviemeter/?ref_=nv_mv_mpm_7"    >Most Popular Movies</a></li>
+                    </ul>
+                    <h5>CHARTS & TRENDS</h5>
+                    <ul>
+                        <li><a     href="/chart/?ref_=nv_ch_cht_1"    >Box Office</a></li>
+                        <li><a     href="/search/title?count=100&groups=oscar_best_picture_winners&sort=year,desc&ref_=nv_ch_osc_2"    >Oscar Winners</a></li>
+                        <li><a     href="/genre/?ref_=nv_ch_gr_3"    >Most Popular by Genre</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>TV & VIDEO</h5>
+                    <ul>
+                        <li><a     href="/tv/?ref_=nv_tvv_tv_1"    >IMDb TV</a></li>
+                        <li><a     href="/tvgrid/?ref_=nv_tvv_ls_2"    >On Tonight</a></li>
+                        <li><a     href="/chart/toptv/?ref_=nv_tvv_250_3"    >Top Rated TV Shows</a></li>
+                        <li><a     href="/chart/tvmeter?ref_=nv_tvv_mptv_4"    >Most Popular TV Shows</a></li>
+                        <li><a     href="/sections/dvd/?ref_=nv_tvv_dvd_5"    >DVD & Blu-Ray</a></li>
+                    </ul>
+                    <h5>SPECIAL FEATURES</h5>
+                    <ul>
+                        <li><a     href="/amazon-originals/?ref_=nv_sf_ams_1"    >Amazon Originals</a></li>
+                        <li><a     href="/streaming/?ref_=nv_sf_st_2"    >Streaming</a></li>
+                        <li><a     href="/scary-good/?ref_=nv_sf_scg_3"    >Scary Good</a></li>
+                        <li><a     href="/imdbpicks/?ref_=nv_sf_picks_4"    >IMDb Picks</a></li>
+                        <li><a     href="/superheroes/?ref_=nv_sf_supr_5"    >Superheroes</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNameMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="/search/name?gender=male,female&ref_=nv_tp_cel_1"    >Celebs</a>,
+                <a     href="/awards-central/?ref_=nv_tp_awrd_2"    >Events</a><br />
+                & <a     href="/gallery/rg784964352?ref_=nv_tp_ph_3"    >Photos</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu2" class="sub_nav">
+                <div id="nameAd"></div>
+                <div class="subNavListContainer">
+                    <h5>CELEBS</h5>
+                    <ul>
+                        <li><a     href="/search/name?birth_monthday=9-14&refine=birth_monthday&ref_=nv_cel_brn_1"    >Born Today</a></li>
+                        <li><a     href="/news/celebrity?ref_=nv_cel_nw_2"    >Celebrity News</a></li>
+                        <li><a     href="/search/name?gender=male,female&ref_=nv_cel_m_3"    >Most Popular Celebs</a></li>
+                    </ul>
+                    <h5>PHOTOS</h5>
+                    <ul>
+                        <li><a     href="/gallery/rg784964352?ref_=nv_ph_ls_1"    >Latest Stills</a></li>
+                        <li><a     href="/gallery/rg1528338944?ref_=nv_ph_lp_2"    >Latest Posters</a></li>
+                        <li><a     href="/gallery/rg2465176320?ref_=nv_ph_lv_3"    >Photos We Love</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>EVENTS</h5>
+                    <ul>
+                        <li><a     href="/awards-central/?ref_=nv_ev_awrd_1"    >Awards Central</a></li>
+                        <li><a     href="/festival-central/?ref_=nv_ev_fc_2"    >Festival Central</a></li>
+                        <li><a     href="/oscars/?ref_=nv_ev_acd_3"    >Oscars</a></li>
+                        <li><a     href="/golden-globes/?ref_=nv_ev_gg_4"    >Golden Globes</a></li>
+                        <li><a     href="/sundance/?ref_=nv_ev_sun_5"    >Sundance</a></li>
+                        <li><a     href="/cannes/?ref_=nv_ev_can_6"    >Cannes</a></li>
+                        <li><a     href="/comic-con/?ref_=nv_ev_comic_7"    >Comic-Con</a></li>
+                        <li><a     href="/emmys/?ref_=nv_ev_rte_8"    >Emmy Awards</a></li>
+                        <li><a     href="/venice/?ref_=nv_ev_venice_9"    >Venice Film Festival</a></li>
+                        <li><a     href="/toronto/?ref_=nv_ev_tff_10"    >Toronto Film Festival</a></li>
+                        <li><a     href="/festival-central/tribeca/?ref_=nv_ev_tff_11"    >Tribeca</a></li>
+                        <li><a     href="/event/all/?ref_=nv_ev_all_12"    >All Events</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNewsMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="/news/top?ref_=nv_tp_nw_1"    >News</a> &amp;<br />
+                <a     href="/czone/?ref_=nv_cm_cz_2"    >Community</a>
+            </p>
+            <span class="downArrow"></span>
+            <div id="navMenu3" class="sub_nav">
+                <div id="latestHeadlines">
+                    <div class="subNavListContainer">
+                        <h5>LATEST HEADLINES</h5>
+                        
+<ul>
+    <li itemprop="headline">
+        <a     href="/news/ni61510945/?ref_=nb_nwt_1"    >
+            &#x27;The Big Short&#x27;s&#x27; Charles Randolph and Rupert Wyatt Team for Sci-Fi Thriller Series (Exclusive)</a><br />
+            <span class="time">3 hours ago
+</span>
+    </li>
+    <li itemprop="headline">
+        <a     href="/news/ni61511417/?ref_=nb_nwt_2"    >
+            &#x2018;Game of Thrones&#x2019; Will Reportedly Shoot Multiple Endings for the Series Finale</a><br />
+            <span class="time">2 hours ago
+</span>
+    </li>
+    <li itemprop="headline">
+        <a     href="/news/ni61511477/?ref_=nb_nwt_3"    >
+            Jim Carrey to Star in Showtime Straight-to-Series Comedy From Michel Gondry</a><br />
+            <span class="time">2 hours ago
+</span>
+    </li>
+</ul>
+
+                    </div>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>NEWS</h5>
+                    <ul>
+                        <li><a     href="/news/top?ref_=nv_nw_tp_1"    >Top News</a></li>
+                        <li><a     href="/news/movie?ref_=nv_nw_mv_2"    >Movie News</a></li>
+                        <li><a     href="/news/tv?ref_=nv_nw_tv_3"    >TV News</a></li>
+                        <li><a     href="/news/celebrity?ref_=nv_nw_cel_4"    >Celebrity News</a></li>
+                        <li><a     href="/news/indie?ref_=nv_nw_ind_5"    >Indie News</a></li>
+                    </ul>
+                    <h5>COMMUNITY</h5>
+                    <ul>
+                        <li><a     href="/czone/?ref_=nv_cm_cz_2"    >Contributor Zone</a></li>
+                        <li><a     href="/poll/?ref_=nv_cm_pl_3"    >Polls</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navWatchlistMenu" aria-haspopup="true">
+            
+<p class="navCategory singleLine watchlist"><a     href="/list/watchlist?ref_=nv_wl_all_0"    >Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div id="navMenu4" class="sub_nav">
+    <h5>
+        RECENTLY ADDED
+    </h5> 
+    <ul id="navWatchlist">
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.watchlistTeaserData = [
+        {
+            href : "/register/login",
+            id : "wlLogin",
+        src  : "http://i.media-imdb.com/images/SF77aec4b719e703a39cac8d5566a9a0e0/navbar/watchlist_slot1_logged_out.jpg"
+        }
+,        {
+        href : "/search/title?count=100&title_type=feature,tv_series",
+        src  : "http://i.media-imdb.com/images/SF58fa0cd127839460ec17b7302830564f/navbar/watchlist_slot2_popular.jpg"
+        }
+,        {
+        href : "/chart/top",
+        src  : "http://i.media-imdb.com/images/SFe1df4328a14bfcbe6b5cf6fad771c2e4/navbar/watchlist_slot3_top250.jpg"
+        }
+    ];
+    </script>
+</div>
+
+        </li>
+        <li class="spacer"></li>
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.navbarAdSlots = {"nameAd":{"clickThru":"http://www.imdb.com/name/nm0001401/","imageUrl":"http://ia.media-imdb.com/images/M/MV5BMTg4MDgyNDQxOF5BMl5BanBnXkFtZTcwMjU5MDY0Nw@@._V1._SX250_CR0,15,250,315_.jpg","rank":"218","headline":"Angelina Jolie"},"titleAd":{"clickThru":"http://www.imdb.com/title/tt1375666/","imageUrl":"http://ia.media-imdb.com/images/M/MV5BMTY0NDEwMzMwMl5BMl5BanBnXkFtZTcwNzQ0OTk1Mw@@._V1._SY315_CR0,0,410,315_.jpg","titleYears":"2010","titleDisplayBase":{"displayTitleTypeOriginal":"movie","primaryTitleText":"Inception","titleId":"tt1375666","displayTitleType":"movie","regionalTitleTexts":[{"region":"AR","title":"El origen"},{"region":"BE","title":"Inception"},{"language":"bg","region":"BG","title":"Генезис"},{"region":"BR","title":"A Origem"},{"language":"fr","region":"CA","title":"Origine"},{"region":"CL","title":"El origen"},{"region":"CZ","title":"Počátek"},{"region":"DK","title":"Inception"},{"region":"EE","title":"Algus"},{"region":"ES","title":"Origen"},{"region":"FR","title":"Inception"},{"region":"GE","title":"Dasatskisi"},{"region":"GR","title":"Inception"},{"region":"HR","title":"Početak"},{"region":"HU","title":"Eredet"},{"language":"he","region":"IL","title":"Hat'hala"},{"language":"hi","region":"IN","title":"Chakravuyh"},{"language":"fa","region":"IR","title":"Talghin"},{"language":"en","region":"JP","title":"Inception"},{"region":"LT","title":"Pradzia"},{"region":"LV","title":"Pirmsakums"},{"region":"MX","title":"El origen"},{"region":"PE","title":"El origen"},{"region":"PL","title":"Incepcja"},{"region":"PT","title":"A Origem"},{"region":"RO","title":"Începutul"},{"region":"RS","title":"Početak"},{"region":"RU","title":"Начало"},{"region":"SI","title":"Izvor"},{"region":"SK","title":"Počiatok"},{"language":"tr","region":"TR","title":"Baslangiç"},{"region":"UA","title":"Початок"},{"region":"US","title":"Inception"},{"region":"UY","title":"El origen"}],"year":"2010"},"rank":14,"headline":"Inception"}};
+    </script>
+</div>
+
+
+
+<div id="nb_extra">
+    <ul id="nb_extra_nav" class="main_nav">
+        <li class="css_nav_item" id="navProMenu" aria-haspopup="true">
+            <p class="navCategory">
+                <a     href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"    >
+                    <img alt="IMDbPro Menu" src="http://i.media-imdb.com/images/SF4fdfd2dc36b14ed0aabc4f2ccf847c0f/navbar/imdbpro_logo_nb.png" />
+                </a>
+            </p>
+            <span class="downArrow"></span>
+            <div id="navMenuPro" class="imdb-pro-ad sub_nav">
+                <a    id="proLink"     href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"   class="imdb-pro-ad__link"
+    >
+                    <div id="proAd" class="imdb-pro-ad__image">
+                        <img alt="Go to IMDbPro" height="180" width="174"
+                             src="http://i.media-imdb.com/images/SF3cf48fa843440b070cb5b77469e1d3ae/navbar/imdbpro_menu_user.png"
+                             srcset="http://i.media-imdb.com/images/SF3cf48fa843440b070cb5b77469e1d3ae/navbar/imdbpro_menu_user.png 1x,
+                                     http://i.media-imdb.com/images/SFb98bc5e7183c9e552c0cc0a4de074b33/navbar/imdbpro_menu_user_2x.png 2x" />
+                    </div>
+                    <section class="imdb-pro-ad__content">
+                        <h1 class="imdb-pro-ad__title">The leading information resource for the entertainment industry</h1>
+                        <p class="imdb-pro-ad__line">Find industry contacts &amp; talent representation</p>
+                        <p class="imdb-pro-ad__line">Manage your photos, credits, &amp; more</p>
+                        <p class="imdb-pro-ad__line">Showcase yourself on IMDb &amp; Amazon</p>
+                        <span role="button" class="imdb-pro-ad__button">Go to IMDbPro</a>
+                    </section>
+                </a>
+            </div>
+        </li>
+        <li><span class="ghost">|</span></li>
+        <li>
+            <a     href="/help/?ref_=nb_hlp"    >
+                Help</a>
+        </li>
+        <li class="social">
+            
+
+
+<a href="https://www.facebook.com/imdb"    title="Follow IMDb on Facebook"
+  target="_blank" >
+  <span class="desktop-sprite follow-facebook"></span>
+</a>
+
+
+<a href="https://twitter.com/imdb"    title="Follow IMDb on Twitter"
+  target="_blank" >
+  <span class="desktop-sprite follow-twitter"></span>
+</a>
+
+
+<a href="https://instagram.com/imdb/"    title="Follow IMDb on Instagram"
+  target="_blank" >
+  <span class="desktop-sprite follow-instagram"></span>
+</a>
+
+        </li>
+    </ul>
+    <script>
+        if (!('imdb' in window)) { window.imdb = {}; }
+        window.imdb.proMenuTeaser = {
+            imageUrl : "http://i.media-imdb.com/images/SF3cf48fa843440b070cb5b77469e1d3ae/navbar/imdbpro_menu_user.png"
+        };
+    </script> 
+</div>
+
+
+<div id="nb_personal">
+
+<ul id="consumer_user_nav" class="main_nav">
+  <li class="css_nav_item no_arrow" id="navUserMenu" aria-haspopup="true">
+        <p class="navCategory singleLine">
+            <a id="facebook-signin-link" class="signin-button" href="https://graph.facebook.com/v2.8/oauth/authorize?client_id=127059960673829&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fregistration%2Ffacebookhandler%2F&scope=email%2Cuser_about_me%2Cuser_birthday&state=eyJ1IjoiaHR0cHM6Ly93d3cuaW1kYi5jb20iLCI0OWU2YyI6ImRhMjkifQ%3D%3D">
+				<span class="facebook-logo"></span>
+                <span class="signin-facebook-text">Sign in with Facebook</span>
+            </a>               
+            <a    id="nblogin"    rel=login href="/registration/signin?ref_=nv_usr_lgin_1"   class="signin-other-options-text"
+    >
+                Other Sign in options
+            </a>
+        </p>
+    </li>
+</ul>
+
+
+</div>
+
+    </div>
+</div>
+
+        
+
+
+
+
+
+
+
+  
+
+
+
+
+<!-- begin INJECTED_NAVSTRIP -->
+<div id="injected_navstrip_wrapper" class="injected_slot">
+<script type="text/javascript">
+doWithAds(function(){
+if ('injected_slot' != 'injected_slot') {
+ad_utils.register_ad('injected_navstrip');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=612335333931;ord=612335333931?" frameborder="0" id="injected_navstrip" marginwidth="0" marginheight="0" name="injected_navstrip" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="0" width="0" height="0" ></iframe> </div>
+<div id="injected_navstrip_reflow_helper"></div>
+<script id="injected_navstrip_rendering">
+doWithAds(function(){
+if ('injected_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('injected_navstrip');
+} else {
+ad_utils.gpt.render_ad('injected_navstrip');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End INJECTED_NAVSTRIP --><!-- _get_ad_for_slot(INJECTED_NAVSTRIP) -->
+
+<div id="pagecontent">
+
+
+
+
+<!-- begin INJECTED_BILLBOARD -->
+<div id="injected_billboard_wrapper" class="injected_slot">
+<script type="text/javascript">
+doWithAds(function(){
+if ('injected_slot' != 'injected_slot') {
+ad_utils.register_ad('injected_billboard');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=612335333931;ord=612335333931?" frameborder="0" id="injected_billboard" marginwidth="0" marginheight="0" name="injected_billboard" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="0" data-original-height="0" width="0" height="0" ></iframe> </div>
+<div id="injected_billboard_reflow_helper"></div>
+<script id="injected_billboard_rendering">
+doWithAds(function(){
+if ('injected_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('injected_billboard');
+} else {
+ad_utils.gpt.render_ad('injected_billboard');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End INJECTED_BILLBOARD --><!-- _get_ad_for_slot(INJECTED_BILLBOARD) -->
+
+<div id="tn15" class="reviews">
+<div id="tn15crumbs">
+<a href="/">IMDb</a> &gt;
+<a href="/title/tt5013056/">Dunkirk (2017)</a> &gt; <b>Reviews &#x26; Ratings - IMDb</b>
+</div>
+<div id="tn15lhs">
+
+    
+<div class="photo">
+<a name="poster" href="/rg/action-box-title/primary-photo/media/rm3222677504/tt5013056" title="Dunkirk"><img border="0" id="primary-poster" alt="Dunkirk" title="Dunkirk" src="https://images-na.ssl-images-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1._SX94_SY140_.jpg" /></a>
+</div>
+
+<div id="action-box" class="action-box">
+
+<p><a href="/rg/action-box-title/own-the-rights/help/show_leaf?uploadyourfilm">Own the rights?</a></p>
+        
+         
+      
+                 
+     
+                 
+      
+        
+        
+         
+<a class="linkasbutton-secondary disabled" href="#">Buy it at Amazon</a>    
+        
+       
+
+<hr />
+<a class="linkasbutton-secondary" href="/r/tt_shop/http://pro.imdb.com/title/tt5013056/" onclick="(new Image()).src='/rg/tt_shop/prosystem/images/b.gif?link=/rg/tt_shop/prosystem/http://pro.imdb.com/title/tt5013056/';">More at IMDb Pro</a>
+
+<link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF24f65d592832287a3f3e1da8898d33f3/wheel/btn2.css" >
+<span class="wlb_wrapper" data-tconst="tt5013056" data-size="small" data-caller-name="legacy_title_lhs" data-classes="linkasbutton-secondary"
+></span>
+
+<a class="linkasbutton-secondary" href="/rg/action-box-title/update-data/updates?auto=legacy/title/tt5013056/">Update Data</a>
+
+</div>
+
+<h6 style="margin-top: 4px">Quicklinks</h6><form><select id="quicklinks_select" onchange="document.location = this.options[this.selectedIndex].value">
+<option value="maindetails">main details</option><option value="combined">combined details</option><option value="fullcredits">full cast and crew</option><option value="companycredits">company credits</option><option value="reviews" selected>reviews</option><option value="externalreviews">external reviews</option><option value="awards">awards</option><option value="ratings">user ratings</option><option value="parentalguide">parents guide</option><option value="plotsummary">plot summary</option><option value="synopsis">synopsis</option><option value="keywords">plot keywords</option><option value="quotes">memorable quotes</option><option value="trivia">trivia</option><option value="goofs">goofs</option><option value="soundtrack">soundtrack listing</option><option value="crazycredits">crazy credits</option><option value="alternateversions">alternate versions</option><option value="movieconnections">movie connections</option><option value="faq">FAQ</option><option value="business">box office/business</option><option value="releaseinfo">release dates</option><option value="locations">filming locations</option><option value="technical">technical specs</option><option value="literature">literature listings</option><option value="news">NewsDesk</option><option value="taglines">taglines</option><option value="videogallery">trailers and videos</option><option value="posters">posters</option><option value="photogallery">photo gallery</option><option value="cinemashowtimes">showtimes</option><option value="officialsites">official sites</option><option value="miscsites">miscellaneous</option><option value="photosites">photographs</option><option value="videosites">video clips</option>
+</select></form>
+<h6>Top Links</h6>
+<a onclick="(new Image()).src='/rg/title-top-links/videogallery/images/b.gif?link=/title/tt5013056/videogallery';" href="/title/tt5013056/videogallery" class="link">trailers and videos</a><a onclick="(new Image()).src='/rg/title-top-links/fullcredits/images/b.gif?link=/title/tt5013056/fullcredits';" href="/title/tt5013056/fullcredits" class="link">full cast and crew</a><a onclick="(new Image()).src='/rg/title-top-links/trivia/images/b.gif?link=/title/tt5013056/trivia';" href="/title/tt5013056/trivia" class="link">trivia</a><a onclick="(new Image()).src='/rg/title-top-links/officialsites/images/b.gif?link=/title/tt5013056/officialsites';" href="/title/tt5013056/officialsites" class="link">official sites</a><a onclick="(new Image()).src='/rg/title-top-links/quotes/images/b.gif?link=/title/tt5013056/quotes';" href="/title/tt5013056/quotes" class="link">memorable quotes</a>
+<h6>Overview</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/maindetails/images/b.gif?link=/title/tt5013056/maindetails';"href="maindetails" class="link">main details</a><a onclick="(new Image()).src='/rg/title-nav-item/combined/images/b.gif?link=/title/tt5013056/combined';"href="combined" class="link">combined details</a><a onclick="(new Image()).src='/rg/title-nav-item/fullcredits/images/b.gif?link=/title/tt5013056/fullcredits';"href="fullcredits" class="link">full cast and crew</a><a onclick="(new Image()).src='/rg/title-nav-item/companycredits/images/b.gif?link=/title/tt5013056/companycredits';"href="companycredits" class="link">company credits</a>
+<h6>Awards &#x26; Reviews</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/reviews/images/b.gif?link=/title/tt5013056/reviews';"href="reviews" class="link selected">user reviews</a><a onclick="(new Image()).src='/rg/title-nav-item/externalreviews/images/b.gif?link=/title/tt5013056/externalreviews';"href="externalreviews" class="link">external reviews</a><a onclick="(new Image()).src='/rg/title-nav-item/awards/images/b.gif?link=/title/tt5013056/awards';"href="awards" class="link">awards</a><a onclick="(new Image()).src='/rg/title-nav-item/ratings/images/b.gif?link=/title/tt5013056/ratings';"href="ratings" class="link">user ratings</a><a onclick="(new Image()).src='/rg/title-nav-item/parentalguide/images/b.gif?link=/title/tt5013056/parentalguide';"href="parentalguide" class="link">parents guide</a>
+<h6>Plot &#x26; Quotes</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/plotsummary/images/b.gif?link=/title/tt5013056/plotsummary';"href="plotsummary" class="link">plot summary</a><a onclick="(new Image()).src='/rg/title-nav-item/synopsis/images/b.gif?link=/title/tt5013056/synopsis';"href="synopsis" class="link">synopsis</a><a onclick="(new Image()).src='/rg/title-nav-item/keywords/images/b.gif?link=/title/tt5013056/keywords';"href="keywords" class="link">plot keywords</a><a onclick="(new Image()).src='/rg/title-nav-item/quotes/images/b.gif?link=/title/tt5013056/quotes';"href="quotes" class="link">memorable quotes</a>
+<h6>Did You Know?</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/trivia/images/b.gif?link=/title/tt5013056/trivia';"href="trivia" class="link">trivia</a><a onclick="(new Image()).src='/rg/title-nav-item/goofs/images/b.gif?link=/title/tt5013056/goofs';"href="goofs" class="link">goofs</a><a onclick="(new Image()).src='/rg/title-nav-item/soundtrack/images/b.gif?link=/title/tt5013056/soundtrack';"href="soundtrack" class="link">soundtrack listing</a><a onclick="(new Image()).src='/rg/title-nav-item/crazycredits/images/b.gif?link=/title/tt5013056/crazycredits';"href="crazycredits" class="link">crazy credits</a><a onclick="(new Image()).src='/rg/title-nav-item/alternateversions/images/b.gif?link=/title/tt5013056/alternateversions';"href="alternateversions" class="link">alternate versions</a><a onclick="(new Image()).src='/rg/title-nav-item/movieconnections/images/b.gif?link=/title/tt5013056/movieconnections';"href="movieconnections" class="link">movie connections</a><a onclick="(new Image()).src='/rg/title-nav-item/faq/images/b.gif?link=/title/tt5013056/faq';"href="faq" class="link">FAQ</a>
+<h6>Other Info</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/business/images/b.gif?link=/title/tt5013056/business';"href="business" class="link">box office/business</a><a onclick="(new Image()).src='/rg/title-nav-item/releaseinfo/images/b.gif?link=/title/tt5013056/releaseinfo';"href="releaseinfo" class="link">release dates</a><a onclick="(new Image()).src='/rg/title-nav-item/locations/images/b.gif?link=/title/tt5013056/locations';"href="locations" class="link">filming locations</a><a onclick="(new Image()).src='/rg/title-nav-item/technical/images/b.gif?link=/title/tt5013056/technical';"href="technical" class="link">technical specs</a><a onclick="(new Image()).src='/rg/title-nav-item/literature/images/b.gif?link=/title/tt5013056/literature';"href="literature" class="link">literature listings</a><a onclick="(new Image()).src='/rg/title-nav-item/news/images/b.gif?link=/title/tt5013056/news';"href="news" class="link">NewsDesk</a>
+  <h6>Promotional</h6>
+  <a onclick="(new Image()).src='/rg/title-nav-item/taglines/images/b.gif?link=/title/tt5013056/taglines';"href="taglines" class="link">taglines</a>
+  <a onclick="(new Image()).src='/rg/title-nav-item/videogallery/images/b.gif?link=/title/tt5013056/videogallery';"href="videogallery" class="link">trailers and videos</a>
+  <a onclick="(new Image()).src='/rg/title-nav-item/posters/images/b.gif?link=/title/tt5013056/posters';"href="posters" class="link">posters</a>
+  <a onclick="(new Image()).src='/rg/title-nav-item/photogallery/images/b.gif?link=/title/tt5013056/photogallery';"href="photogallery" class="link">photo gallery</a>
+  
+
+<h6>External Links</h6>
+<a onclick="(new Image()).src='/rg/title-nav-item/cinemashowtimes/images/b.gif?link=/title/tt5013056/cinemashowtimes';"href="cinemashowtimes" class="link">showtimes</a><a onclick="(new Image()).src='/rg/title-nav-item/officialsites/images/b.gif?link=/title/tt5013056/officialsites';"href="officialsites" class="link">official sites</a><a onclick="(new Image()).src='/rg/title-nav-item/miscsites/images/b.gif?link=/title/tt5013056/miscsites';"href="miscsites" class="link">miscellaneous</a><a onclick="(new Image()).src='/rg/title-nav-item/photosites/images/b.gif?link=/title/tt5013056/photosites';"href="photosites" class="link">photographs</a><a onclick="(new Image()).src='/rg/title-nav-item/soundsites/images/b.gif?link=/title/tt5013056/soundsites';"href="soundsites" class="link empty">sound clips</a><a onclick="(new Image()).src='/rg/title-nav-item/videosites/images/b.gif?link=/title/tt5013056/videosites';"href="videosites" class="link">video clips</a>  
+</div>
+<div id="tn15main">
+    
+
+<div id="tn15adrhs">
+
+
+
+
+<!-- begin TOP_RHS -->
+<div id="top_rhs_wrapper" class="dfp_slot">
+<script>
+window.generic = window.generic || {};
+generic.alphalfaComponents = {
+"alphalfa-container.html" : "https://ia.media-imdb.com/images/G/01/imdbads/alphalfa-container-253150330._CB522736199_.html",
+"js/collections/alphalfa.js" : "https://ia.media-imdb.com/images/G/01/imdbads/js/collections/alphalfa-3292747090._CB522736629_.js"
+};
+</script>
+<script type="text/javascript">
+doWithAds(function(){
+if ('dfp_slot' != 'injected_slot') {
+ad_utils.register_ad('top_rhs');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-dart-params="#doubleclick;u=612335333931;ord=612335333931?" frameborder="0" id="top_rhs" marginwidth="0" marginheight="0" name="top_rhs" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="300" data-original-height="250" width="300" height="250" ></iframe> </div>
+<noscript> <a href="http://pubads.g.doubleclick.net/gampad/jump?&iu=4215/imdb2.consumer.main/&sz=300x250|300x600|11x1&t=p%3Dtr%26g%3Dhi%26g%3Dac%26g%3Dth%26g%3Dwar%26g%3Ddr%26tt%3Df%26m%3DPG13%26mh%3DPG13%26ml%3DPG13%26coo%3Dgb%26coo%3Dnl%26coo%3Dfr%26coo%3Dus%26b%3Dt250%26b%3Dt25%26b%3Dt250a%26fv%3D1%26id%3Dtt5013056%26ab%3Df%26bpx%3D1%26c%3D0&tile=1&c=612335333931" target="_blank"> <img src="http://pubads.g.doubleclick.net/gampad/ad?&iu=4215/imdb2.consumer.main/&sz=300x250|300x600|11x1&t=p%3Dtr%26g%3Dhi%26g%3Dac%26g%3Dth%26g%3Dwar%26g%3Ddr%26tt%3Df%26m%3DPG13%26mh%3DPG13%26ml%3DPG13%26coo%3Dgb%26coo%3Dnl%26coo%3Dfr%26coo%3Dus%26b%3Dt250%26b%3Dt25%26b%3Dt250a%26fv%3D1%26id%3Dtt5013056%26ab%3Df%26bpx%3D1%26c%3D0&tile=1&c=612335333931" border="0" alt="advertisement" /> </a> </noscript>
+<div id="top_rhs_reflow_helper"></div>
+<div id="top_rhs_after" class="after_ad" style="visibility:hidden;">
+<a class="yesScript" href="#" onclick="ad_utils.show_ad_feedback('top_rhs');return false;" id="ad_feedback_top_rhs">ad feedback</a>
+</div>
+<script id="top_rhs_rendering">
+doWithAds(function(){
+if ('dfp_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('top_rhs');
+} else {
+ad_utils.gpt.render_ad('top_rhs');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End TOP_RHS --><!-- _get_ad_for_slot(TOP_RHS) -->
+  
+</div>
+
+<div id="tn15title">
+<h1><small>Reviews &#x26; Ratings for<br></small>
+    
+    
+    <a class="main" href="/title/tt5013056/">Dunkirk</a> <span> <span class="pro-link"><a href="http://pro.imdb.com/rg/reviews-title/tconst-pro-header-link/title/tt5013056/">More at <strong>IMDbPro</strong></a>&nbsp;&raquo;</span><span class="title-extra"></span></span>
+    
+    
+</h1>
+</div>
+
+<div id="tn15content">
+ 
+
+<a style="margin-top:10px;margin-bottom:10px" class="btn large" href="/title/tt5013056/reviews-enter?ref_=tt_ur_urv">Write review</a><br/>
+
+<style type="text/css"><!--
+.click { cursor: pointer; cursor: hand; }
+.yn { padding: 2px; background: #eeeeee; }
+.yn form { display: inline; margin: 0; }
+.yn input { font-weight: bold; padding: 0px 4px 8px; height: 20px }
+.yn span { color: #008000; font-weight: bold; font-size: smaller; }
+.yn span.error { color: #800000; }
+.i1 { background: #eeffee; }
+.i2 { background: #ffeeee; }
+.i3 { background: #eeeeff; }
+.i4 { background: #ffffee; }
+.ucft { margin-bottom: 4px }
+.ucft td { font-size: smaller }
+.ucft .warning { color: #800000; font-weight: bold; }
+.ucft input.save { padding: 0px; border: 0; background: none; color: #0000ff; text-decoration: underline; font-size: smaller; }
+.ucft input.apply { font-weight: bold; padding: 0px 8px; height: 20px }
+img.avatar {
+    float: left;
+    margin: 5px 10px 10px 0;
+    border: 1px solid #ddd;
+    padding: 1px;
+}
+div#pagecontent div#tn15 h2 {
+    margin: 5px 0 0;
+}
+div#pagecontent div#tn15 .comment-summary {
+    padding: 0 0 15px 10px;
+}
+--></style>
+
+<form method="get" action="/title/tt5013056/reviews">
+<table class="ucft" border="0" cellpadding="1" cellspacing="1">
+<tr>
+<td style="font-size: medium; font-weight: bold">Filter:</td>
+<td colspan="3">
+<select name="filter" onChange="this.form.submit()">
+
+<option value="best" selected>Best</option>
+
+<option value="chrono">Chronological</option>
+
+<option value="prolific">Prolific Authors</option>
+
+<option value="love">Loved It</option>
+
+<option value="hate">Hated It</option>
+
+</select>
+Hide Spoilers:
+<input type="checkbox" value="hide" name="spoiler" onChange="this.form.submit()">
+<noscript>
+<input class="apply click linkasbutton-secondary" type="submit" value="Apply">
+</noscript>
+</td>
+</tr>
+
+</table>
+</form>
+
+<script type="text/javascript">
+<!--
+function yn(id, vote) {
+  if (!document.getElementById || !document.createElement || !document.removeChild || !document.appendChild || !document.childNodes || !document.createTextNode) return true;
+  var i = new Image();
+  i.onload =  function() { ynd(id, 1) };
+  i.onerror = function() { ynd(id, 0) };
+  i.src = 'reviews-vote?yni_'+id+'='+vote;
+  return false;
+}
+function ynd(id, status) {
+  var d, s, t;
+  if (!(d = document.getElementById('ynd_'+id))) return true;
+  while (d.childNodes.length) d.removeChild(d.childNodes[0]);
+  var s = document.createElement('span');
+  if (!status) s.setAttribute('class', 'error');
+  s.innerHTML = status ? 'Thank you, your vote will be counted and appear on this page within 24 hours.' : 'Sorry, there was a problem collecting your vote.';
+  d.appendChild(s);
+}
+//-->
+</script>
+<table><tr><td nowrap="1"><font face="Arial, Helvetica, sans-serif" size="-1">Page 6 of 126:</font></td><td nowrap="1"> <a href="reviews?start=40"><img width="10" height="9" border="0" src="http://i.media-imdb.com/f85.gif" alt="[Prev]"></a><a title="1" href="reviews?start=0">[1]</a> <a title="2" href="reviews?start=10">[2]</a> <a title="3" href="reviews?start=20">[3]</a> <a title="4" href="reviews?start=30">[4]</a> <a title="5" href="reviews?start=40">[5]</a> <a title="6" href="reviews?start=50"><b>[6]</b></a> <a title="7" href="reviews?start=60">[7]</a> <a title="8" href="reviews?start=70">[8]</a> <a title="9" href="reviews?start=80">[9]</a> <a title="10" href="reviews?start=90">[10]</a> <a title="11" href="reviews?start=100">[11]</a> <a title="12" href="reviews?start=110">[12]</a> <a title="13" href="reviews?start=120">[13]</a> <a title="14" href="reviews?start=130">[14]</a> <a title="15" href="reviews?start=140">[15]</a> <a title="16" href="reviews?start=150">[16]</a> <a href="reviews?start=60"><img width="10" height="9" border="0" src="http://i.media-imdb.com/f86.gif" alt="[Next]"></a></td></tr></table>
+<table border="0"><tr><td>
+<a href="reviews-index?">Index</a>
+</td><td align="right">
+1258 reviews in total&nbsp;
+
+</td></tr></table>
+
+<hr size="1" noshade="1">
+
+<div>
+<small>60 out of 106 people found the following review useful:</small><br>
+<a href="/user/ur26395851/"><img class="avatar" src="http://ia.media-imdb.com/images/M/MV5BMjI2NDEyMjYyMF5BMl5BanBnXkFtZTcwMzM3MDk0OQ@@._SX40_SY40_SS40_.jpg" height=${avatar.image.size} width=${avatar.image.size}></a>
+<h2>Nolan fanboys are ruining reviews</h2>
+<img width="102" height="12" alt="1/10" src="http://i.media-imdb.com/images/showtimes/10.gif"><br>
+<b>Author:</b>
+<a href="/user/ur26395851/">navi kris</a> <small>from India</small><br>
+<small>23 July 2017</small><br>
+
+</div>
+<p>
+This movie has no character development at all people are just dying
+and you don&#x27;t feel anything heck i don&#x27;t even remember the main
+characters name and i saw the movie yesterday. People are just
+overreacting over a Nolan movie i started sleeping in the end. showing
+different perspective of characters was unnecessary and i saw the same
+scene again and again and sometimes knew what was going to happen to
+the character
+</p>
+
+<div class="yn" id="ynd_3761733">
+
+<form method="get" 
+
+ action="/register/login"
+
+>
+Was the above review useful to you?
+
+<input class="click linkasbutton-secondary" type="submit" 
+ name="ynb_3761733_yes" value="Yes" 
+
+ rel="login" 
+
+>
+<input class="click linkasbutton-secondary" type="submit"
+ name="ynb_3761733_no" value="No"
+
+ rel="login" 
+
+>
+
+</form>
+
+</div>
+
+<hr noshade="1" size="1" align="center">
+
+<div>
+<small>63 out of 112 people found the following review useful:</small><br>
+<a href="/user/ur34449516/"><img class="avatar" src="https://images-na.ssl-images-amazon.com/images/M/MV5BNjc3NDU5NjA5OV5BMl5BanBnXkFtZTgwMTIzMzY2MDE@._V1._SX40_SY40_SS40_.jpg" height=${avatar.image.size} width=${avatar.image.size}></a>
+<h2>Some of the reviews on here are fake/paid for</h2>
+<img width="102" height="12" alt="1/10" src="http://i.media-imdb.com/images/showtimes/10.gif"><br>
+<b>Author:</b>
+<a href="/user/ur34449516/">Avatar615</a><br>
+<small>30 July 2017</small><br>
+
+</div>
+<p>
+Average Movie. Nolan has made a bore with interstellar and now this
+one. There is no story what so ever. Just soldiers on an island and
+soldiers in a plane. No plot or anything. Just two hours of soldiers on
+a beach. Since this movie is based on true events, how did the movie
+not have a plot? Instead of wasting your money on this go to google
+images and type in soldiers on a beach or soldiers in a plane. There I
+saved you 15 bucks. Loud and annoying music that wasn&#x27;t needed. Hans
+Zimmer will try to use his music to have you thinking this movie will
+get intense but it never does.<br><br>Another thing to note is most of the reviews on here for this movie are
+fake. I am constantly on this website and within the first 24 hours of
+the release of this movie there was already 100s of reviews posted. No
+other movie will have that many reviews that fast. Chistopher Nolan
+must of put some of the movie&#x27;s budget into hiring people to write
+reviews. Planet of the apes came out a week before this and that only
+has 50,000 votes. This movie already has 115,000. Don&#x27;t believe me?
+then check for yourself. Either half the audience had permission to
+watch the movie before anyone else or Nolan hired 100s of people for
+fake votes. Nolan is falling fast after his Batman Trilogy and he is an
+overrated director.<br><br>1/10.
+</p>
+
+<div class="yn" id="ynd_3768329">
+
+<form method="get" 
+
+ action="/register/login"
+
+>
+Was the above review useful to you?
+
+<input class="click linkasbutton-secondary" type="submit" 
+ name="ynb_3768329_yes" value="Yes" 
+
+ rel="login" 
+
+>
+<input class="click linkasbutton-secondary" type="submit"
+ name="ynb_3768329_no" value="No"
+
+ rel="login" 
+
+>
+
+</form>
+
+</div>
+
+<hr noshade="1" size="1" width="50%" align="center">
+
+<div>
+<small>16 out of 19 people found the following review useful:</small><br>
+<a href="/user/ur0134919/"><img class="avatar" src="http://ia.media-imdb.com/images/M/MV5BMjI2NDEyMjYyMF5BMl5BanBnXkFtZTcwMzM3MDk0OQ@@._SX40_SY40_SS40_.jpg" height=${avatar.image.size} width=${avatar.image.size}></a>
+<h2>Bleak and hopeless.</h2>
+<img width="102" height="12" alt="1/10" src="http://i.media-imdb.com/images/showtimes/10.gif"><br>
+<b>Author:</b>
+<a href="/user/ur0134919/">John Kingston</a> <small>from Derbyshire</small><br>
+<small>19 August 2017</small><br>
+
+</div>
+<p>
+If you enjoyed the last twenty minutes of Titanic, then this film is
+for you. If you liked the bleak vision of humanity that Christopher
+Nolan portrayed in The Dark Knight Rises, you might like the atmosphere
+of this film. If you want a generic war-is-hell and survival is matter
+of chance film, you may well appreciate this.<br><br>If you remember Dunkirk as a victory snatched from the jaws of defeat;
+as a near-miracle when for a full day a storm grounded the German air
+force in Flankers while the Channel was as calm as a millpond; as a day
+when sixty German planes attacked four hundred men on the beach and
+inflicted no casualties; as a time when men were buried hastily but
+with military honours rather than being allowed to lie dead on the
+beach; then this film does a huge disservice to the truth. <br><br>Finally a note on accuracy. The film may look right but it is missing
+almost any detail that might bring hope into the situation. The images
+may be accurate; the atmosphere is more appropriate for a film about a
+concentration camp.
+</p>
+
+<div class="yn" id="ynd_3784002">
+
+<form method="get" 
+
+ action="/register/login"
+
+>
+Was the above review useful to you?
+
+<input class="click linkasbutton-secondary" type="submit" 
+ name="ynb_3784002_yes" value="Yes" 
+
+ rel="login" 
+
+>
+<input class="click linkasbutton-secondary" type="submit"
+ name="ynb_3784002_no" value="No"
+
+ rel="login" 
+
+>
+
+</form>
+
+</div>
+
+<hr noshade="1" size="1" width="50%" align="center">
+
+<div>
+<small>31 out of 49 people found the following review useful:</small><br>
+<a href="/user/ur8091866/"><img class="avatar" src="http://ia.media-imdb.com/images/M/MV5BMjI2NDEyMjYyMF5BMl5BanBnXkFtZTcwMzM3MDk0OQ@@._SX40_SY40_SS40_.jpg" height=${avatar.image.size} width=${avatar.image.size}></a>
+<h2>Looking forward to the remake; by another writer/director</h2>
+<img width="102" height="12" alt="2/10" src="http://i.media-imdb.com/images/showtimes/20.gif"><br>
+<b>Author:</b>
+<a href="/user/ur8091866/">boblin2-1</a> <small>from Manitoba, Canada</small><br>
+<small>23 July 2017</small><br>
+
+</div>
+<p>
+The movie was a huge disappointment.<br><br>Here&#x27;s some of the things that have been said about this movie - none
+of them are true:<br><br>&#x22;A technical masterpiece&#x22; &#x22;An absolutely outstanding depiction&#x22; &#x22;A must
+See&#x22; &#x22;Best movie Of summer 2017&#x22; &#x22;Best war film ever made&#x22; &#x22;A must see
+film&#x22; &#x22;Dunkirk is an authentic...&#x22; &#x22;Dunkirk is the most realistic
+war-movie ever made&#x22;<br><br>If I had the time, for my own personal viewing I would re-work this
+movie by first re-ordering the overlapping and out of sequence scenes,
+and then kill the entire droning musical score (obviously it would have
+to be on a track that I can turn off). Just these simple changes would
+make it a far better watch. To fine tune the movie further, I would
+shorten the many long pointless pauses, when people in real life would
+either do or say something.<br><br>The evacuation from Dunkirk was of course a real event, a significant
+element of which was the hundreds of small vessels and regular folk who
+took to the sea to being their boys back home &#x96; all of that hardly came
+through, nor did the true seriousness of the situation on the beaches
+and in the town, and the fighting that was going on in an attempt to
+slow the approaching army down.<br><br>All in all, I think this movie is a p-poor-job. I wish I&#x27;d waited until
+it was on Netflix - I could have at least been editing some of my
+photos at the same time.<br><br>Do I think you should watch this at the movie theatre: No!
+</p>
+
+<div class="yn" id="ynd_3762384">
+
+<form method="get" 
+
+ action="/register/login"
+
+>
+Was the above review useful to you?
+
+<input class="click linkasbutton-secondary" type="submit" 
+ name="ynb_3762384_yes" value="Yes" 
+
+ rel="login" 
+
+>
+<input class="click linkasbutton-secondary" type="submit"
+ name="ynb_3762384_no" value="No"
+
+ rel="login" 
+
+>
+
+</form>
+
+</div>
+
+<hr noshade="1" size="1" width="50%" align="center">
+
+<div>
+<small>35 out of 57 people found the following review useful:</small><br>
+<a href="/user/ur78668820/"><img class="avatar" src="http://ia.media-imdb.com/images/M/MV5BMjI2NDEyMjYyMF5BMl5BanBnXkFtZTcwMzM3MDk0OQ@@._SX40_SY40_SS40_.jpg" height=${avatar.image.size} width=${avatar.image.size}></a>
+<h2>Terrible</h2>
+<img width="102" height="12" alt="1/10" src="http://i.media-imdb.com/images/showtimes/10.gif"><br>
+<b>Author:</b>
+<a href="/user/ur78668820/">roxburghangus</a> <small>from Australia</small><br>
+<small>23 July 2017</small><br>
+
+</div>
+<p>
+Really really poor movie, bad acting, gratingly bad music (if you can
+call it that), no character story and really badly made with zero
+respect for the history. <br><br>Modern scenes/items throughout (e.g., modern container terminal in
+backgrounds, modern fenders on the boats) a warship at anchor getting
+torpedoed, who anchors a ship in the middle of a battle? A spitfire
+with no fuel flying faster than it did when the engine was running then
+turning around to make one more kill before landing, with no engine
+running! A group of soldiers threatening to throw off a french guy
+overboard to lighten the load on their boat so it would float when its
+chest deep in water sinking. One minute the sea is calm and sunny, next
+minute its windy and overcast. Boats pro-porting to be evacuating
+300,000 soldiers leaving the beach/port half empty, the beach scenes
+showing less than 5,000 soldiers lined up waiting to leave, where were
+all the others? Also neatly lined up ready to be shot at by panes and
+artillery. Could they not afford enough extras?<br><br>Director and writers did not show anything of the history or
+characters, they disrespected the viewer by thinking the type of events
+like the above were to be believed, just a horrible movie all round<br><br>Don&#x27;t bother watching even when it is on TV<br><br>Cant believe the reviews are positive at all. Go compare it to well
+made classic war movies and then come back and give this one a 1 star
+like it deserves.<br><br>Better examples include Private Ryan, Gallipoli, The Longest Day,
+Bridge too far, etc
+</p>
+
+<div class="yn" id="ynd_3761577">
+
+<form method="get" 
+
+ action="/register/login"
+
+>
+Was the above review useful to you?
+
+<input class="click linkasbutton-secondary" type="submit" 
+ name="ynb_3761577_yes" value="Yes" 
+
+ rel="login" 
+
+>
+<input class="click linkasbutton-secondary" type="submit"
+ name="ynb_3761577_no" value="No"
+
+ rel="login" 
+
+>
+
+</form>
+
+</div>
+
+<hr noshade="1" size="1" width="50%" align="center">
+
+<div>
+<small>38 out of 63 people found the following review useful:</small><br>
+<a href="/user/ur49208568/"><img class="avatar" src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1NTMxNjA4MF5BMl5BanBnXkFtZTgwNDQ2NTU4MDE@._V1._SX40_SY40_SS40_.jpg" height=${avatar.image.size} width=${avatar.image.size}></a>
+<h2>A war vehicle running low on fuel</h2>
+<img width="102" height="12" alt="5/10" src="http://i.media-imdb.com/images/showtimes/50.gif"><br>
+<b>Author:</b>
+<a href="/user/ur49208568/">bob-the-movie-man</a> <small>from United Kingdom</small><br>
+<small>26 July 2017</small><br>
+
+</div>
+<p>
+The words &#x22;Christopher Nolan&#x22; and &#x22;disappointment&#x22; are not words I
+would naturally associate&#x85; but for me, they apply where &#x22;Dunkirk&#x22; is
+concerned. <br><br>It promised so much from the trailer: a historical event of epic
+proportions; Kenneth Branagh; Tom Hardy; Mark Rylance; Hans Zimmer on
+the keys; the director of such classics as &#x22;The Dark Knight&#x22;;
+&#x22;Inception&#x22; and &#x22;Interstellar&#x22; : what could go wrong? <br><br>But it just doesn&#x27;t work and I&#x27;ve spent the last 24 hours trying to
+unpick why.<br><br>A key problem for me was the depiction of the beach itself. The film
+eschews CGI effects (which I would normally commend) in favour of the
+use of &#x22;practical effects&#x22; and the involvement of &#x22;thousands of extras&#x22;
+(as the rather glutinously positive Wiki entry declares). Unfortunately
+for the movie, there were some 400,000 troops marooned in this last
+patch of civilisation ahead of the Nazi hoard, and all of the shots
+refuse to acknowledge this scale of potential human tragedy. Yes, there
+are individual scenes of horror, such as the soldier walking into the
+sea against the impassive stares of the young heroes. But nothing of
+scale. At times I thought I&#x27;d seen more people on the beach on a
+winter&#x27;s day in Bournemouth.<br><br>My disquiet at this deepened when we got to the sharp end of the rescue
+by the &#x22;small boats&#x22;. In my mind (and I&#x27;m NOT quite old enough to
+remember this!) I imagine a sea full of them. A sight to truly merit
+Branagh&#x27;s awed gaze. But no. They might have been &#x22;original&#x22; vessels&#x85;.
+but there was only about half a dozen of them. A mental vision dashed. <br><br>The film attempts to tell the story from three perspectives: from the
+land; from the sea and from the air. The sea though gets the lion&#x27;s
+share of the film, and there is much drowning that occurs that (I am
+aware) was distressing for some in the audience. <br><br>Nolan also pushes his quirky &#x22;timeline&#x22; manipulation too far for an
+audience that largely expects a linear telling of a classic tale. It&#x27;s
+day; it&#x27;s night; the minesweeper&#x27;s sailing; then sunk; then sailing
+again; a Spitfire crashes, then crashes again from a different
+perspective. I know many in the audience just didn&#x27;t &#x27;get&#x27; that:
+leaving them presumably very confused! <br><br>That being said, the film is not a write off, and has its moments of
+brilliance. Kenneth Branagh (&#x22;Jack Ryan: Shadow Recruit&#x22;, &#x22;Valkyrie&#x22;),
+although having a range of Nolan&#x27;s cheesy lines to say, is impressive
+as the commanding officer. Mark Rylance (&#x22;Bridge of Spies&#x22;, &#x22;The BFG&#x22;)
+also shines as the captain of the &#x22;Moonstone&#x22;: one of the small boats
+out of Weymouth. And Tom Hardy (&#x22;The Revenant&#x22;, &#x22;Legend&#x22;), although
+having limited opportunity to act with anything other than his eyes, is
+impressive as RAF pilot Farrier. His final scene of stoic heroism is
+memorable. <br><br>Fionn Whitehead is also impressive in his movie debut, and even Harry
+Styles (&#x22;This is Us&#x22;) equips himself well. <br><br>The cinematography by Hoyte Van Hoytema (&#x22;Interstellar&#x22;) is stunning
+with some memorable shots: a burning plane on a beach being a high spot
+for me.<br><br>And Hans Zimmer&#x27;s score is Oscar-worthy, generating enormous tension
+with a reverberating score, albeit sometimes let down by unsuitable
+cutaways (for example, to scenes of boat loading). Elsewhere in the
+sound department though I had major issues, with a decent percentage of
+the dialogue being completely inaudible in the sound mix.<br><br>I really wanted this to be a &#x22;Battle of Britain&#x22;. Or a &#x22;Bridge Too
+Far&#x22;. Or even a &#x22;Saving Private Ryan&#x22;. Unfortunately, for me it was
+none of these, and this goes down as one of my movie disappointments of
+the year so far.<br><br>(For the full graphical review, please visit bob-the-movie-man.com.
+Thanks.)
+</p>
+
+<div class="yn" id="ynd_3764670">
+
+<form method="get" 
+
+ action="/register/login"
+
+>
+Was the above review useful to you?
+
+<input class="click linkasbutton-secondary" type="submit" 
+ name="ynb_3764670_yes" value="Yes" 
+
+ rel="login" 
+
+>
+<input class="click linkasbutton-secondary" type="submit"
+ name="ynb_3764670_no" value="No"
+
+ rel="login" 
+
+>
+
+</form>
+
+</div>
+
+<hr noshade="1" size="1" width="50%" align="center">
+
+<div>
+<small>65 out of 117 people found the following review useful:</small><br>
+<a href="/user/ur28897846/"><img class="avatar" src="http://ia.media-imdb.com/images/M/MV5BMjI2NDEyMjYyMF5BMl5BanBnXkFtZTcwMzM3MDk0OQ@@._SX40_SY40_SS40_.jpg" height=${avatar.image.size} width=${avatar.image.size}></a>
+<h2>Don&#x27;t believe the HYPE. This movie is garbage</h2>
+<img width="102" height="12" alt="1/10" src="http://i.media-imdb.com/images/showtimes/10.gif"><br>
+<b>Author:</b>
+<a href="/user/ur28897846/">melcraig204</a> <small>from Australia</small><br>
+<small>24 July 2017</small><br>
+
+</div>
+<p>
+After enduring this film I was blown away to discover the critical
+acclaim for this movie! Not to mention the IMDb user reviews! This
+movie took me to a whole new level of bland. To take one of the most
+significant events of World War 2 and turn it into THE most dull and
+bland cinematic experience of my life. The film was woeful. I have
+never been so detached from the characters in a film ever. I&#x27;m thinking
+the entire script would be lucky to fill more than a page. Not to
+mention the action. We have around 400,000 men needing evacuation. But
+it looked like a couple of thousand. There was no scale. The action was
+damn stupid from start to finish. Did they hire an expert? Hell no. I&#x27;m
+an ex soldier and that is not how any of that action sounds. Not to
+mention the cruddy no stakes PG 13 action. Did a main character just
+die? No idea. The editing was so terrible. And who cares if a character
+dies. There&#x27;s no character development. So there&#x27;s nothing to invest
+in. What a mess.
+</p>
+
+<div class="yn" id="ynd_3762562">
+
+<form method="get" 
+
+ action="/register/login"
+
+>
+Was the above review useful to you?
+
+<input class="click linkasbutton-secondary" type="submit" 
+ name="ynb_3762562_yes" value="Yes" 
+
+ rel="login" 
+
+>
+<input class="click linkasbutton-secondary" type="submit"
+ name="ynb_3762562_no" value="No"
+
+ rel="login" 
+
+>
+
+</form>
+
+</div>
+
+<hr noshade="1" size="1" width="50%" align="center">
+
+<div>
+<small>76 out of 139 people found the following review useful:</small><br>
+<a href="/user/ur71927114/"><img class="avatar" src="http://ia.media-imdb.com/images/M/MV5BMjI2NDEyMjYyMF5BMl5BanBnXkFtZTcwMzM3MDk0OQ@@._SX40_SY40_SS40_.jpg" height=${avatar.image.size} width=${avatar.image.size}></a>
+<h2>Nothing what you expect seeing the trailer</h2>
+<img width="102" height="12" alt="1/10" src="http://i.media-imdb.com/images/showtimes/10.gif"><br>
+<b>Author:</b>
+<a href="/user/ur71927114/">HIRAV PAREKH</a> <small>from Reno</small><br>
+<small>23 July 2017</small><br>
+
+</div>
+<p>
+The movie is so slow. Watching the trailer you would expect action
+scenes in the movie but there is almost none. Its all one side is
+attaching and the other is defending. You almost feel in the beginning
+the director is setting up the movie nice for some nice action to
+follow but midway through the movie you realize that nothing has
+happened and apparently nothing is going to happen. The movie never
+picks up. It just fails.
+</p>
+
+<div class="yn" id="ynd_3762138">
+
+<form method="get" 
+
+ action="/register/login"
+
+>
+Was the above review useful to you?
+
+<input class="click linkasbutton-secondary" type="submit" 
+ name="ynb_3762138_yes" value="Yes" 
+
+ rel="login" 
+
+>
+<input class="click linkasbutton-secondary" type="submit"
+ name="ynb_3762138_no" value="No"
+
+ rel="login" 
+
+>
+
+</form>
+
+</div>
+
+<hr noshade="1" size="1" width="50%" align="center">
+
+<div>
+<small>84 out of 155 people found the following review useful:</small><br>
+<a href="/user/ur78713268/"><img class="avatar" src="http://ia.media-imdb.com/images/M/MV5BMjI2NDEyMjYyMF5BMl5BanBnXkFtZTcwMzM3MDk0OQ@@._SX40_SY40_SS40_.jpg" height=${avatar.image.size} width=${avatar.image.size}></a>
+<h2>Nope</h2>
+<img width="102" height="12" alt="1/10" src="http://i.media-imdb.com/images/showtimes/10.gif"><br>
+<b>Author:</b>
+<a href="/user/ur78713268/">support-43713</a> <small>from New Jersey</small><br>
+<small>24 July 2017</small><br>
+
+</div>
+<p>
+Too loud, too disjointed, too much Kenneth Branagh staring meaningfully
+into the distance. There seemed to be many scenes that would not be
+reasonable, starting with two soldiers encountering each other in an
+isolated location: they would not silently go about their business
+without confirming each other&#x27;s identity. I thought I saw a spitfire
+that had run out of fuel first fly right-to-left, then left-to-right to
+land on a beach in front of the Germans, descending in daylight and
+landing in darkness. There was so much confusion as to what was being
+shown, and such loud &#x22;music&#x22; that it was difficult to follow the story.
+The critics seem to love this movie. I don&#x27;t know why.
+</p>
+
+<div class="yn" id="ynd_3762569">
+
+<form method="get" 
+
+ action="/register/login"
+
+>
+Was the above review useful to you?
+
+<input class="click linkasbutton-secondary" type="submit" 
+ name="ynb_3762569_yes" value="Yes" 
+
+ rel="login" 
+
+>
+<input class="click linkasbutton-secondary" type="submit"
+ name="ynb_3762569_no" value="No"
+
+ rel="login" 
+
+>
+
+</form>
+
+</div>
+
+<hr noshade="1" size="1" width="50%" align="center">
+
+<div>
+<small>90 out of 167 people found the following review useful:</small><br>
+<a href="/user/ur26006545/"><img class="avatar" src="http://ia.media-imdb.com/images/M/MV5BMjI2NDEyMjYyMF5BMl5BanBnXkFtZTcwMzM3MDk0OQ@@._SX40_SY40_SS40_.jpg" height=${avatar.image.size} width=${avatar.image.size}></a>
+<h2>Bullshit !!</h2>
+<img width="102" height="12" alt="1/10" src="http://i.media-imdb.com/images/showtimes/10.gif"><br>
+<b>Author:</b>
+<a href="/user/ur26006545/">Indian</a> <small>from India</small><br>
+<small>22 July 2017</small><br>
+
+</div>
+<p>
+My greatest fear while watching Nolan&#x27;s new movie if that just because
+he has delivered back to back world-wide hits and seen as the most
+intelligent film-maker; critics and Nolan-fans are obliged to given
+10/10 ratings even if the movie is very average or even bad.<br><br>Dunkirk finally turned my fear into reality.<br><br>The movie is simply plain boring. You don&#x27;t feel attached to any
+character. I don&#x27;t even care if they die. The Aerial shots featuring
+Tom hardy all seem repetitive. It was not &#x22;immersive&#x22;, &#x22;out of the
+world&#x22; experience as many critics are saying.<br><br>One critic wrote that there was pin-drop silence in theater. Yes, I
+agree but not because people are tense but perhaps they are sleeping.<br><br>And dear western media, I know world needs a anti-war message right now
+but that doesn&#x27;t mean you start giving rave reviews to such a pathetic
+movie. ALL PEOPLE know wars are bad. EVEN TRUMP knows that. EVEN Hitler
+knew that. We don&#x27;t need a Nolan-movie to realize that.<br><br>Half-hour into the movie and I was desperately waiting for it to get
+over. The only people who might like it are Britons because they have
+heard Dunkirk stories growing up and might relate to it. But for rest
+of the world, it is simple plain boring.<br><br>Save your money and better watch Dark knight at home. Giving 1 star to
+bring some sanity back into the world. Although the movie might deserve
+6/10.
+</p>
+
+<div class="yn" id="ynd_3761458">
+
+<form method="get" 
+
+ action="/register/login"
+
+>
+Was the above review useful to you?
+
+<input class="click linkasbutton-secondary" type="submit" 
+ name="ynb_3761458_yes" value="Yes" 
+
+ rel="login" 
+
+>
+<input class="click linkasbutton-secondary" type="submit"
+ name="ynb_3761458_no" value="No"
+
+ rel="login" 
+
+>
+
+</form>
+
+</div>
+
+<hr noshade="1" size="1" width="50%" align="center">
+
+<hr size="1" noshade="1">
+<table><tr><td nowrap="1"><font face="Arial, Helvetica, sans-serif" size="-1">Page 6 of 126:</font></td><td nowrap="1"> <a href="reviews?start=40"><img width="10" height="9" border="0" src="http://i.media-imdb.com/f85.gif" alt="[Prev]"></a><a title="1" href="reviews?start=0">[1]</a> <a title="2" href="reviews?start=10">[2]</a> <a title="3" href="reviews?start=20">[3]</a> <a title="4" href="reviews?start=30">[4]</a> <a title="5" href="reviews?start=40">[5]</a> <a title="6" href="reviews?start=50"><b>[6]</b></a> <a title="7" href="reviews?start=60">[7]</a> <a title="8" href="reviews?start=70">[8]</a> <a title="9" href="reviews?start=80">[9]</a> <a title="10" href="reviews?start=90">[10]</a> <a title="11" href="reviews?start=100">[11]</a> <a title="12" href="reviews?start=110">[12]</a> <a title="13" href="reviews?start=120">[13]</a> <a title="14" href="reviews?start=130">[14]</a> <a title="15" href="reviews?start=140">[15]</a> <a title="16" href="reviews?start=150">[16]</a> <a href="reviews?start=60"><img width="10" height="9" border="0" src="http://i.media-imdb.com/f86.gif" alt="[Next]"></a></td></tr></table><p><a href="reviews-enter">Add another review</a></p>
+  
+<hr/><h3>Related Links</h3><table>
+    <tr><td width="33%" style="width: 400px"> <a href="/title/tt5013056/plotsummary" onClick="(new Image()).src='/rg/title-related/reviews-plotsummary/images/b.gif?link=/title/tt5013056/plotsummary';">Plot summary</a></td>
+    <td width="33%" style="width: 400px"> <a href="/title/tt5013056/synopsis" onClick="(new Image()).src='/rg/title-related/reviews-synopsis/images/b.gif?link=/title/tt5013056/synopsis';">Plot synopsis</a></td>
+    <td width="33%" style="width: 400px"> <a href="/title/tt5013056/ratings" onClick="(new Image()).src='/rg/title-related/reviews-ratings/images/b.gif?link=/title/tt5013056/ratings';">Ratings</a></td></tr>
+    <tr><td width="33%" style="width: 400px"> <a href="/title/tt5013056/awards" onClick="(new Image()).src='/rg/title-related/reviews-awards/images/b.gif?link=/title/tt5013056/awards';">Awards</a></td>
+    <td width="33%" style="width: 400px"> <a href="/title/tt5013056/externalreviews" onClick="(new Image()).src='/rg/title-related/reviews-externalreviews/images/b.gif?link=/title/tt5013056/externalreviews';">External reviews</a></td>
+    <td width="33%" style="width: 400px"> <a href="/title/tt5013056/parentalguide" onClick="(new Image()).src='/rg/title-related/reviews-parentalguide/images/b.gif?link=/title/tt5013056/parentalguide';">Parents Guide</a></td></tr>
+    <tr><td width="33%" style="width: 400px"> <a href="/title/tt5013056/officialsites" onClick="(new Image()).src='/rg/title-related/reviews-officialsites/images/b.gif?link=/title/tt5013056/officialsites';">Official site</a></td>
+    <td width="33%" style="width: 400px"> <a href="/title/tt5013056/keywords" onClick="(new Image()).src='/rg/title-related/reviews-keywords/images/b.gif?link=/title/tt5013056/keywords';">Plot keywords</a></td>
+    <td width="33%" style="width: 400px"> <a href="/title/tt5013056/maindetails" onClick="(new Image()).src='/rg/title-related/reviews-maindetails/images/b.gif?link=/title/tt5013056/maindetails';">Main details</a></td></tr>
+    <tr><td width="33%" style="width: 400px"> <a href="/my/comments" onClick="(new Image()).src='/rg/title-related/reviews-user/images/b.gif?link=/my/comments';">Your user reviews</a></td>
+    <td width="33%" style="width: 400px"> <a href="/list/ratings" onClick="(new Image()).src='/rg/title-related/reviews-vote/images/b.gif?link=/list/ratings';">Your vote history</a></td>
+</table>
+
+</div>
+</div> 
+</div> 
+<br style="clear:both;" />
+</div>
+
+
+
+
+<div id="footer" class="ft">
+  <div id="rvi-div">
+    <div class="recently-viewed">&nbsp;</div>
+    <br class="clear">
+  </div>
+
+  
+
+
+
+<!-- begin BOTTOM_AD -->
+<div id="bottom_ad_wrapper" class="cornerstone_slot">
+<script type="text/javascript">
+doWithAds(function(){
+if ('cornerstone_slot' != 'injected_slot') {
+ad_utils.register_ad('bottom_ad');
+}
+});
+</script>
+<iframe allowtransparency="true" class="yesScript" data-blank-serverside frameborder="0" id="bottom_ad" marginwidth="0" marginheight="0" name="bottom_ad" onload="doWithAds.call(this, function(){ ad_utils.on_ad_load(this); });" scrolling="no" data-original-width="728" data-original-height="90" width="728" height="90" ></iframe> </div>
+<div id="bottom_ad_reflow_helper"></div>
+<script id="bottom_ad_rendering">
+doWithAds(function(){
+if ('cornerstone_slot' == 'injected_slot') {
+ad_utils.inject_ad.register('bottom_ad');
+} else {
+ad_utils.gpt.render_ad('bottom_ad');
+}
+}, "ad_utils not defined, unable to render client-side GPT ad or injected ad.");
+</script>
+<!-- End BOTTOM_AD --><!-- _get_ad_for_slot(BOTTOM_AD) -->
+
+
+  <div class="container footer-grid-wrapper">
+    <div class="grid-row footer-row">
+      <div class="grid-col outside">
+        <h3>IMDb Everywhere</h3>
+        <div class="app-links">
+          
+
+<a href="https://itunes.apple.com/app/imdb-movies-tv/id342792525"    title="Get the IMDb App on the Apple App Store"
+  target="_blank" >
+            <span class="desktop-sprite appstore-apple"></span>
+          </a>
+          
+
+<a href="https://play.google.com/store/apps/details?id=com.imdb.mobile"    title="Get the IMDb app on Google Play"
+  target="_blank" >
+            <span class="desktop-sprite appstore-google"></span>
+          </a>
+          
+
+<a href="http://www.amazon.com/IMDb-Mobile-LLC-Movies-TV/dp/B004GISARW/?amp&ref=mas_ba_imdb_dp&amp&pf_rd_m=ATVPDKIKX0DER&amp&pf_rd_s=right-1&amp&pf_rd_r=0H6RNAMSQ70FM7ATR0WN&amp&pf_rd_t=101&amp&pf_rd_p=1290998462&amp&pf_rd_i=2350149011&ref_=imdbref_ft_app_amazon&tag=imdb-fire-housead-20"    title="Get the IMDb app on Amazon Appstore for Android"
+  target="_blank" >
+            <span class="desktop-sprite appstore-amazon"></span>
+          </a>
+        </div>
+
+        <p>Find showtimes, watch trailers, browse photos, track your Watchlist and rate your favorite movies and TV shows on your phone or tablet!</p>
+
+        <a     href="http://m.imdb.com?ref=ft_mdot"   class="touchlink"
+    >IMDb Mobile site</a>
+      </div>
+      <div class="grid-col center">
+        <div class="link-bar icon-link-bar">
+          <h3>Follow IMDb on
+            <div>
+              
+
+
+<a href="https://www.facebook.com/imdb"    title="Follow IMDb on Facebook"
+  target="_blank" >
+  <span class="desktop-sprite follow-facebook"></span>
+</a>
+
+
+<a href="https://twitter.com/imdb"    title="Follow IMDb on Twitter"
+  target="_blank" >
+  <span class="desktop-sprite follow-twitter"></span>
+</a>
+
+
+<a href="https://instagram.com/imdb/"    title="Follow IMDb on Instagram"
+  target="_blank" >
+  <span class="desktop-sprite follow-instagram"></span>
+</a>
+
+            </div>
+          </h3>
+        </div>
+      </div>
+      <div class="grid-col outside">
+        <div class="grid-row">
+          <div class="grid-col grid-col-4">
+            <ul class="unstyled">
+              <li>
+
+<a     href="/?ref=ft_hm"    >Home</a></li>
+              <li>
+
+<a     href="/chart/top?ref=ft_250"    >Top Rated Movies</a></li>
+              <li>
+
+<a     href="/chart?ref=ft_cht"    >Box Office</a></li>
+              <li>
+
+<a     href="/sections/tv?ref=ft_tv"    >TV</a></li>
+              <li>
+
+<a     href="/movies-coming-soon?ref=ft_cs"    >Coming Soon</a></li>
+              <li>
+
+<a     href="/a2z?ref=ft_si"    >Site Index</a></li>
+              <li>
+
+<a     href="/search?ref=ft_sr"    >Search</a></li>
+              <li>
+
+<a     href="/movies-in-theaters?ref=ft_inth"    >In Theaters</a></li>
+            </ul>
+          </div>
+          <div class="grid-col grid-col-4">
+            <ul class="unstyled">
+              <li><a     href="/helpdesk/contact?ref=ft_con"    >Contact Us</a></li>
+              <li>
+              </li>
+              <li>
+
+<a     href="/news?ref=ft_nw"    >News</a></li>
+              <li class="spacer"></li>
+              <li>
+
+<a     href="/pressroom?ref=ft_pr"    >Press Room</a></li>
+              <li>
+
+<a     href="/advertising/?ref=ft_ad"    >Advertising</a></li>
+              <li>
+
+<a     href="/jobs?ref=ft_jb"    >Jobs</a></li>
+            </ul>
+          </div>
+          <div class="grid-col grid-col-4">
+            <ul class="unstyled">
+              <li><a href="http://pro.imdb.com/signup/index.html?rf=cons_ft_hm&amp;ref_=cons_ft_hm">IMDbPro</a></li>
+              <li><a href="http://www.boxofficemojo.com">Box Office Mojo</a></li>
+              <li><a href="http://www.withoutabox.com">Withoutabox</a></li>
+              <li class="spacer"></li>
+              <li>
+
+<a href="/help/show_article?conditions&ref=ft_cou"    >Conditions of Use</a></li>
+              <li>
+
+<a href="/privacy?ref=ft_pvc"    >Privacy Policy</a></li>
+              <li>
+
+<a href="//www.amazon.com/InterestBasedAds"    >Interest-Based Ads</a></li>
+              <li class="spacer"></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="float-right">
+      
+
+<a href="/help/show_article?conditions"    >Copyright &copy;</a> 1990-2017
+      
+
+<a href="/help/"    >IMDb.com, Inc.</a>
+    </div>
+    <div>
+      <link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF2f8ce417a8a7dc0154a7c37111eac709/wheel/logo.css" >
+An <img id="amazon_logo" align="middle" style="width:80px;height:19px;border:0 none" src="http://i.media-imdb.com/images/SF9bb191c6827273aa978cab39a3587950/b.gif" alt="Amazon.com"/> company.
+
+    </div>
+  </div>
+  
+  
+
+
+<table class="footer" id="amazon-affiliates">
+  <tr>
+    <td colspan="8">
+      Amazon Affiliates
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <a href="http://www.amazon.com/b?ie=UTF8&node=2676882011&tag=imdbpr1-20">
+          <span class="amazon-affiliate-site-name">Amazon Video</span><br>
+          <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.com/b?ie=UTF8&node=2676882011&tag=imdbpr1-20">
+          <span class="amazon-affiliate-site-name">Prime Video</span><br>
+          <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.de/b?ie=UTF8&node=284266&tag=imdbpr1-de-21">
+          <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.it/b?ie=UTF8&node=412606031&tag=imdbpr1-it-21">
+          <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.fr/b?ie=UTF8&node=405322&tag=imdbpr1-fr-21">
+          <span class="amazon-affiliate-site-name">Amazon France</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.amazon.in/movies-tv-shows/b/?ie=UTF&node=976416031&tag=imdbpr1-in-21">
+          <span class="amazon-affiliate-site-name">Amazon India</span><br>
+          <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.dpreview.com">
+          <span class="amazon-affiliate-site-name">DPReview</span><br>
+          <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
+        </a>
+      </div>
+    </td>
+    <td>
+      <div>
+        <a href="http://www.audible.com">
+          <span class="amazon-affiliate-site-name">Audible</span><br>
+          <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+  
+  
+  
+</layer>
+</div>
+<img src="/rd/?q=50703000000030a090f29616f226e276966600000010c6a08023031373039313430000001037a040379646370000001047&cb=15054153077863" width="1" height="1" alt="" border="0">
+</div> <!-- id="wrapper" -->
+<!-- h=iop1a4b i=2017-09-14 s=legacy(default) t='Thu Sep 14 11:55:07 2017' -->
+<script src="http://i.media-imdb.com/images/SF539be3987208630802e712857c51a6c9/js/jquery.js" ></script><script src="http://i.media-imdb.com/images/SF9736e24c00e4021bd06252171e5e03ea/js/cc/title/main.js" ></script><script src="http://i.media-imdb.com/images/SF4f789f206c87a31b26eb8666da48322e/js/app/win7/sitemode.js" ></script><!-- begin ads footer -->
+
+<!-- Begin SIS code --> 
+<iframe id="sis_pixel_sitewide" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" style="display: none;"></iframe>
+<script>
+    setTimeout(function(){
+        try{
+            //sis3.0 pixel
+            var url_sis3 = 'https://s.amazon-adsystem.com/iu3?',
+                params_sis3 = [
+                    "d=imdb.com",
+                    "a1=",
+                    "a2=0101a1823ca3d5d46ce03d4502edf28f095b20f780c29eddcddebefb2933fa9c1e98",
+                    "pId=tt5013056",
+                    "r=1",
+                    "rP=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5013056%2Freviews%3Fstart%3D50",
+                    "encoding=server",
+                    "cb=612335333931"  
+                ];
+        
+            if (document.getElementById('sis_pixel_sitewide')) {
+                (document.getElementById('sis_pixel_sitewide')).src = url_sis3 + params_sis3.join('&');
+            }
+        }
+        catch(e){
+            if ('consoleLog' in window){
+                consoleLog('Pixel failure ' + e.toString(),'sis');
+            }
+            if (window.ueLogError) { 
+                window.ueLogError(e);
+            }
+        }
+    }, 20);
+</script>
+<!-- End SIS code -->
+
+<!-- begin comscore beacon -->
+<script type="text/javascript" src='https://ia.media-imdb.com/images/G/01/imdbads/js/beacon-1792157672._CB522736519_.js'></script>
+<script type="text/javascript">
+if(window.COMSCORE){
+COMSCORE.beacon({
+c1: 2,
+c2:"6034961",
+c3:"",
+c4:"http://www.imdb.com/title/tt5013056/reviews?start=50",
+c5:"",
+c6:"",
+c15:""
+});
+}
+</script>
+<noscript>
+<img src="https://sb.scorecardresearch.com/p?c1=2&c2=6034961&c3=&c4=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5013056%2Freviews%3Fstart%3D50&c5=c6=&15=&cj=1"/>
+</noscript>
+<!-- end comscore beacon -->
+
+<script>
+    doWithAds(function(){
+        (new Image()).src = "http://www.amazon.com/aan/2009-05-01/imdb/default?slot=sitewide-iframe&u=612335333931&ord=612335333931";
+    },"unable to request AAN pixel");
+</script>
+
+<!-- end ads footer -->
+<script src="http://i.media-imdb.com/images/SF478cec6a48c8de4413dbc404879752d1/js/jquery/plugins/jquery.colorbox-min.js" ></script><link rel="stylesheet" type="text/css" href="http://i.media-imdb.com/images/SF73051487323537a6449a6bb75bc86d43/css/min/lightbox.css" ><script type="text/imdblogin-js" id="login">
+    jQuery(document).ready(function(){
+        window.imdb.login_lightbox("https://secure.imdb.com",
+                       "http://www.imdb.com/title/tt5013056/reviews?start=50");
+    });
+</script>
+<script src="http://i.media-imdb.com/images/SF69a064e4ee04de88620684d9a3c7d891/js/cc/loginbox.js" ></script><script src="http://i.media-imdb.com/images/SF8f2969cb2414faf9dcba7d2e76a1b28d/js/cc/suggestionsearch.js" charset="UTF-8"></script><script src="http://i.media-imdb.com/images/SFb762c590afd141254ab36f8212ac0f29/js/jquery/ui-current-custom.js" ></script><script src="http://i.media-imdb.com/images/SF7a5448fc461ffdc3669c5e32d5b2c953/js/cc/wlb-lite.js" ></script>
+<script>
+(function($){
+    $('.wlb_wrapper')
+    .wlb_lite();
+})(jQuery);
+</script>
+<script src="http://i.media-imdb.com/images/SFe6b8b05cea724dcd192ca6c674f606cc/js/framecheck.js" ></script>
+</body>
+</html>
+
